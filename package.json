@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
-
+    "bower": "^1.5.3"
   },
   "devDependencies": {
     "browser-sync": "^2.9.7",
